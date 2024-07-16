@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\bin\Debug\net7.0\SinglyLinkedListC#.exe
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\bin\Debug\net7.0\SinglyLinkedListC#.deps.json
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\bin\Debug\net7.0\SinglyLinkedListC#.runtimeconfig.json
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\bin\Debug\net7.0\SinglyLinkedListC#.dll
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\bin\Debug\net7.0\SinglyLinkedListC#.pdb
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.dll
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\refint\SinglyLinkedListC#.dll
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.pdb
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\SinglyLinkedListC#.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Projects\Data Structures\SinglyLinkedList\SinglyLinkedListC#\obj\Debug\net7.0\ref\SinglyLinkedListC#.dll
