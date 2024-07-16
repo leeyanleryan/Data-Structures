@@ -3,7 +3,7 @@ package SinglyLinkedList;
 public class SinglyLinkedListJava {
     public static void main(String[] args) {
         SinglyLinkedList sll = new SinglyLinkedList();
-
+        Testing(sll);
         /*
          * Expected print statements:
          * [10, 5]
@@ -28,7 +28,6 @@ public class SinglyLinkedListJava {
          * 
          * Should any mismatch of print statements occur, check Testing function.
          */
-        Testing(sll);
     }
 
     public static void Testing(SinglyLinkedList sll) {
